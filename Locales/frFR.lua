@@ -13,46 +13,46 @@ L.hasTakenTheTrigger = "s'est emparée"
 L.droppedTrigger = "a été lâché"
 L.capturedTheTrigger = "a pris le drapeau de"
 
---L.hordeGate = "Horde Gate"
---L.allianceGate = "Alliance Gate"
+--L.hordeGate = "Barrière Horde"
+--L.allianceGate = "Barrière Alliance"
 --L.gatePosition = "%s (%s)"
---L.west = "West"
+--L.west = "Ouest"
 --L.front = "Front"
---L.east = "East"
---L.hordeBoss = "Horde Boss"
---L.allianceBoss = "Alliance Boss"
+--L.east = "Est"
+--L.hordeBoss = "Boss Horde"
+--L.allianceBoss = "Boss Alliance"
 --L.galvangar = "Galvangar"
 --L.balinda = "Balinda"
 L.ivus = "Ivus" -- Ivus le Seigneur de la forêt
 L.lokholar = "Lokholar" -- Lokholar le Seigneur des glaces
---L.handIn = "|cFF33FF99Capping|r: Automatically handing in quest items."
+--L.handIn = "|cFF33FF99Capping|r: Remettre automatiquement les objets de quêtes."
 
 --- Alliance IoC Workshop yells:
--- Gnomish Mechanic yells: I'm halfway there! Keep the Horde away from here.  They don't teach fighting in engineering school!
--- Gnomish Mechanic yells: It's broken already?! No worries. It's nothing I can't fix.
+-- Gnomish Mechanic yells: Je suis à la moitié du chemin ici ! Tenez la Horde à distance. Ils n'enseignent pas le combat à l'école des ingénieurs !
+-- Gnomish Mechanic yells: C'est déjà cassé ?! Pas de problème. Il n'y a rien que je peux pas réparer.
 --- Horde IoC Workshop yells:
--- Goblin Mechanic yells: I'm about halfway done! Keep the Alliance away - fighting's not in my contract!
--- Goblin Mechanic yells: It's broken again?! I'll fix it... just don't expect the warranty to cover this.
+-- Goblin Mechanic yells: J'ai presque fini ! Tenez l'Alliance à distance - combattre n'est pas dans mon contrat!
+-- Goblin Mechanic yells: C'est encore cassé ?! Je le réparerai... Ne vous attendez pas à ce que ce soit couvert par la garantie.
 --L.halfway = "halfway"
 --L.broken = "broken"
 
 -- Wintergrasp
---L.damaged = "|cFF33FF99Capping|r: %s Damaged"
---L.destroyed = "|cFF33FF99Capping|r: %s Destroyed"
---L.northEastKeep = "North-East Fortress Tower"
---L.southEastKeep = "South-East Fortress Tower"
---L.northWestKeep = "North-West Fortress Tower"
---L.southWestKeep = "South-West Fortress Tower"
---L.northWest = "North-West Wall"
---L.southWest = "South-West Wall"
---L.south = "South Wall"
---L.southEast = "South-East Wall"
---L.northEast = "North-East Wall"
---L.innerWest = "Inner-West Wall"
---L.innerSouth = "Inner-South Wall"
---L.innerEast = "Inner-East Wall"
---L.southGate = "South Gate"
---L.mainEntrance = "Main Entrance"
---L.westTower = "West Tower"
---L.southTower = "South Tower"
---L.eastTower = "East Tower"
+--L.damaged = "|cFF33FF99Capping|r: %s de dégâts"
+--L.destroyed = "|cFF33FF99Capping|r: %s de destruction"
+--L.northEastKeep = "Tour fortifiée Nord-Est"
+--L.southEastKeep = "Tour fortifiée Sud-Est"
+--L.northWestKeep = "Tour fortifiée Nord-Ouest"
+--L.southWestKeep = "Tour fortifiée Sud-Ouest"
+--L.northWest = "Mur Nord-Ouest"
+--L.southWest = "Mur Sud-Ouest"
+--L.south = "Mur Sud"
+--L.southEast = "Mur Sud-Est"
+--L.northEast = "Mur Nord-Est"
+--L.innerWest = "Mur Intérieur Ouest"
+--L.innerSouth = "Mur Intérieur Sud"
+--L.innerEast = "Mur Intérieur Est"
+--L.southGate = "Grille Sud"
+--L.mainEntrance = "Entrée principale"
+--L.westTower = "Tour Ouest"
+--L.southTower = "Tour Sud"
+--L.eastTower = "Tour Est"
